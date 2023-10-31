@@ -215,3 +215,63 @@ a{
     top: 1%;
     left: 70%;
 } */
+
+
+
+
+
+
+
+
+/* Changes about Domains Section Done by Om Bhagwat */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap');
+
+
+  .card_section2{
+    background-color: #f2f2f250;
+  }
+
+ 
+
+  .card_section_inner{
+    display: flex;
+    padding: 50px;
+  }
+
+  .image_section, .text_section{
+    width: 50%;
+  }
+
+  .card_section_inner .text_section{
+    padding-top: 50px;
+
+  }
+
+  .card_section_inner .text_section p{
+    font-family: 'Raleway', sans-serif;
+
+  }
+
+  
+
+  @media(max-width: 990px) {
+    .card_section_inner{
+    display: block;
+    padding: 50px;
+  }
+
+  .image_section, .text_section{
+    width: 100%;
+  }
+  }
+
+  .heading__gdsc_rcpit{
+    text-align: center;
+}
+
+.heading__gdsc_rcpit p{
+    color: #808080;
+}
+  
