@@ -267,11 +267,15 @@ a{
   }
   }
 
-  .heading__gdsc_rcpit{
+.heading__gdsc_rcpit{
     text-align: center;
+    padding: 50px 0;
 }
 
 .heading__gdsc_rcpit p{
     color: #808080;
 }
-  
+
+.card-text{
+    color: #808080;
+}
